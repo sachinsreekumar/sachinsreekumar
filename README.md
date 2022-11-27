@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sachinsreekumar
 - 👀 I’m interested in coding and music
-- 🌱 I’m currently learning javascript
-- 📫 How to reach me sachinsreekumar2@gmail.com
+- 🌱 I’m currently learning machine learning
+- 📫 Reach me at sachinsreekumar2@gmail.com
 
 <!---
 sachinsreekumar/sachinsreekumar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
