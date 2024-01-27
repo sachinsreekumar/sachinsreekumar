@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sachinsreekumar
 - 👀 I’m interested in coding and music
-- 🌱 I’m currently learning machine learning
+- 🌱 Always a student
 - 📫 Reach me at sachinsreekumar2@gmail.com
 
 <!---
